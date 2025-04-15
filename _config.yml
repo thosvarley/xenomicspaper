@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : &name "Xenobots"
+title                    : &name "Xenomics"
 title_separator          : "-"
-subtitle                 : #
+subtitle                 : "Revealing the functional complexity of biology"
 name                     : *name 
-description              : "Art and science on the boundary between life and robotics."
-url                      : "https://thosvarley.github.io/xenobots.github.io/"
-baseurl                  : "xenobots.github.io/"
-repository               : thosvarley/xenobots.github.com
+description              : "Revealing the functional complexity of biology"
+url                      : "https://thosvarley.github.io/xenomicspaper.github.io/"
+baseurl                  : 
+repository               : thosvarley/xenomicspaper
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/lattice_white.png"
@@ -118,7 +118,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Thomas is a scientist, writer, and artist living and working the New England. Currently a postdoctoral scientist at the University of Vermont in the Vermont Complex Systems Institute."
   location         : #"Northampton, MA, USA"
-  email            : # "contact(AT)thosvarley(DOT)me"
+  email            : #"tfvarley@uvm.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

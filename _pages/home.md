@@ -1,84 +1,28 @@
 ---
-title: "Xenobots"
+title: "Xenomics"
 layout: splash
 permalink: /
 date: 2025-03-17
 header:
-  #overlay_color: "#000"
-  #overlay_filter: "0.5"
-  overlay_image: /assets/images/xenobot_banner.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/stab_banner.png
   #actions:
   #  - label: "Learn more"
   #    url: /about/
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Artificial, intelligent, yet fully biological constructs."
+excerpt: "A multi-disciplinary approach to revealing functional complexity in biological systems."
 intro:
-  - excerpt: "Xenobots are a novel class of entity that straddle the boundaries between living organisms and artificial robots. They are pretty neat."
-
-# Feature Row 1
-feature_row1:
-  - image_path: /assets/images/milestones/red_green_cdo.png
-    alt: #""
-    title: "1. Computer-designed organisms."
-    excerpt: "By combining AI design methods with a cell-based construction toolkit, a scalable pipeline for designing and creating novel organisms is introduced."
-    url: /milestones/milestone_1/
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-
-# Feature Row 2
-feature_row2:
-  - image_path: /assets/images/milestones/living_robot_swarm.jpg
-    alt: #""
-    title: "2. Living robot swarms"
-    excerpt: "New motors, sensors, and faster manufacture enable living robot swarms. By training xenobots to self-organize into multi-agent swarms, they can accomplish tasks no single bot could alone."
-    url: "/milestones/milestone_2/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-
-# Feature Row 3
-feature_row3:
-  - image_path: /assets/images/milestones/kinematic_replication.jpg
-    alt: #""
-    title: "3. Kinematically Replicating Organisms"
-    excerpt: "A previously unknown form of self-replication in organisms, discovered and controlled by artificial intelligence and evolutionary optimization."
-    url: /milestones/milestone_3
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-
-# Feature row 4
-feature_row4:
-  - image_path: /assets/images/milestones/xenomics.png
-    alt: #""
-    title: "4. Xenomics: a toolkit to study xenobots."
-    excerpt: "Combining methodologies from computational neuroscience, developmental biology, and information theory, xenomics is a new toolkit for scientists interested in understanding the internal structure of xenobots."
-    url: /milestones/milestone_4/
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-
-#Feature row 5
-feature_row5:
-  - image_path: /assets/images/milestones/burst.png
-    alt: #""
-    title: "5. Emergent information complexity in xenobots."
-    excerpt: "The tools of xenomics reveal that xenobots are complex systems in their own right: cells are organized into sophisticated functional connectivity networks, and the bots integrate information over time."
-    url: /milestones/milestone_5/
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
----
-
-
-{% include feature_row id="intro" type="center" %}
-
-# Xenobot Research Milestones
+  - excerpt: "Combining methodologies from biology, computational neuroscience, and computer science, xenomics is a methodological toolkit for scientists exploring emergent"
 
 ---
 
-{% include feature_row id="feature_row1" type="left" %}
+**Citation:** Blackiston, D., Dromiack, H., Grasso, C., Varley, T. F., Moore, D. G., Srinivasan, K., Sporns, O., Bongard, J., Levin, M., & Walker, S. I. (2024). Revealing non-trivial information structures in aneural biological tissues via functional connectivity (p. 2024.05.09.593467). bioRxiv. [https://doi.org/10.1101/2024.05.09.593467](https://doi.org/10.1101/2024.05.09.593467)
 
-{% include feature_row id="feature_row2" type="left" %}
+# Background
 
-{% include feature_row id="feature_row3" type="left" %}
+Xenobots and anthrobots are the first “products” of the emerging field of computer-designed organisms (CDOs). CDOs result from AI dictating how to rearrange living tissues to create autonomous machines that could perform useful work. Robots built from living rather than inorganic materials have several potential advantages, such as intrinsic adaptability, more flexible structures, and generalizable use. However, to achieve such endeavors, it remains necessary to understand what makes living materials suitable building materials for robots. WTo that end, in this paper, we show that despite being liberated from the host frog, bits of frog skin maintain their adaptive abilities. When punctured with a small pin, the cells within the skin explant rapidly recover their ability to cooperate. This suggests that more complex biobots of the future may be easier to make and maintain because they come “pre-loaded” with the adaptive capabilities intrinsic to their host systems.
 
-{% include feature_row id="feature_row4" type="left" %}
+How do individual cells share information to coordinate tissue and organism level function?  This question is central to understanding many diverse processes in biology, including organ development, wound healing, growth, and regeneration.  Likewise, if investigators were able to decode and control these cellular conversations, they might be able to rearrange living tissues into new forms, creating autonomous synthetic machines that could perform useful work - as observed in the emerging field of computer-designed organisms (CDOs).  Towards this goal, the field of neuroscience has developed several mathematical approaches to track information flows through a complex central nervous system. In this paper, we applied these neuroscience methods to non-neural cells, revealingreveal non-random information dynamics in a developing skin explant.  Further these information dynamics restructure following injury, suggesting long-term rearrangements in the information patterns of cell coordination - which could one day be manipulated towards numerousseveral biomedical and bioengineering goals.
 
-{% include feature_row id="feature_row5" type="left" %}
+---

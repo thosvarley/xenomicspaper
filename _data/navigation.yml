@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "News"
-    url: /news/
-  - title: "Research"
-    url: /research/
+  - title: "Code"
+    url: /code/
+  - title: "Images and Videos"
+    url: /images/
   - title: "Team"
     url: /team/
   - title: "Contact"
