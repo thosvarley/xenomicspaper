@@ -17,7 +17,9 @@ intro:
 
 ---
 <p style="text-align: center;">
-<video src="https://github.com/thosvarley/xenomicspaper/blob/main/assets/videos/Xenomics.mp4" width="640" height="480" title="Puncture video" controls></video>
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://github.com/thosvarley/xenomicspaper/blob/main/assets/videos/Xenomics.mp4">
+</video>
 </p>
 
 In the above video, you can see a video of an organoid being punctured with a needle (the major intervention explored in the paper). The puncture occurs at around the 12 second mark: notice how the pattern of calcium flashes changes in response to the attack before returning to equilibrium - this is indicative of an immediate and long-term response to tissue injury that is believed to be part of the healing process.
