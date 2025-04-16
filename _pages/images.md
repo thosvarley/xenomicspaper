@@ -17,15 +17,20 @@ intro:
 
 ---
 <p style="text-align: center;">
+<!---
 <video width="320" height="240" controls>
   <source type="video/mp4" src="https://github.com/thosvarley/xenomicspaper/blob/main/assets/videos/Xenomics.mp4">
+</video>
+--->
+<video width="480" height="320" controls="controls">
+  <source src="/assets/videos/Xenomics.mp4" type="video/mp4">
 </video>
 </p>
 
 In the above video, you can see a video of an organoid being punctured with a needle (the major intervention explored in the paper). The puncture occurs at around the 12 second mark: notice how the pattern of calcium flashes changes in response to the attack before returning to equilibrium - this is indicative of an immediate and long-term response to tissue injury that is believed to be part of the healing process.
 
 <p style="text-align: center;">
-<img src="/assets/images/FIG1.png" width="640" alt="Alt text" title="Figure 1">
+<img src="/assets/images/FIG1.png" width=640 alt="">
 </p>
 
 **A**: 4-cell stage of embryonic development, **B**: animal cap excised after 24 hours, **C**: spheroid tissue after another 24 hours, and **D**: compressed spheroid tissue into disk. 7 days post-fertilization calcium imaging was performed, **E**: Individual frame of calcium intensity, **F**: average intensity of stacked frames, **G** and **H**: Cell identification. **I** and **J**: experimental setup where the tissue is punctured with a glass capillary. **K**: Kymograph analysis was performed on the explant outside the conventional timescale (on the order of milliseconds), because it is only when the timescale is on the order of thousands of seconds are new structures are observed within the tissue. What these structures represent requires further investigations beyond the scope of kymograph analysis. Calcium transience within these tissues displays more diverse structures when longer timescales are observed.
