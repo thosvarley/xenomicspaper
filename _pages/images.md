@@ -16,10 +16,12 @@ intro:
   - excerpt: ""
 
 ---
-<video width="560" height="315" controls>
-      <source src="/assets/videos/Xenomics.mp4" type="video/mp4">
-</video>
 
+<div style="text-align:center">
+{% include video id="f1a28KAGCGs" provider="youtube" %}
+Please credit: "Douglas Blackiston (Levin Lab)".
+</div>
+<br>
 In the above video, you can see a video of an organoid being punctured with a needle (the major intervention explored in the paper). The puncture occurs at around the 12 second mark: notice how the pattern of calcium flashes changes in response to the attack before returning to equilibrium - this is indicative of an immediate and long-term response to tissue injury that is believed to be part of the healing process.
 
 {% include figure popup=true image_path="/assets/images/FIG1.png" width="640" %}
