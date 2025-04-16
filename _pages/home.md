@@ -19,6 +19,8 @@ intro:
 
 **Citation:** Blackiston, D., Dromiack, H., Grasso, C., Varley, T. F., Moore, D. G., Srinivasan, K., Sporns, O., Bongard, J., Levin, M., & Walker, S. I. (2024). Revealing non-trivial information structures in aneural biological tissues via functional connectivity (p. 2024.05.09.593467). bioRxiv. [https://doi.org/10.1101/2024.05.09.593467](https://doi.org/10.1101/2024.05.09.593467)
 
+*Xenomics* (from the Greek *xeno*, meaning “newcomer”): understanding the internal coordination and processing among cells within organoids.”
+
 # Background
 
 Xenobots and anthrobots are the first “products” of the emerging field of computer-designed organisms (CDOs). CDOs result from AI dictating how to rearrange living tissues to create autonomous machines that could perform useful work. Robots built from living rather than inorganic materials have several potential advantages, such as intrinsic adaptability, more flexible structures, and generalizable use. However, to achieve such endeavors, it remains necessary to understand what makes living materials suitable building materials for robots. To that end, in this paper, we show that despite being liberated from the host `frog, bits of frog skin maintain their adaptive abilities. When punctured with a small pin, the cells within the skin explant rapidly recover their ability to cooperate. This suggests that more complex biobots of the future may be easier to make and maintain because they come “pre-loaded” with the adaptive capabilities intrinsic to their host systems.
